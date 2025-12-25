@@ -154,7 +154,6 @@ OpenWrt & Edge Browser       ████████░░  85%
 
 <div align="center">
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=neoOpus&theme=github_dark)
 
 <table>
   <tr>
