@@ -29,7 +29,7 @@ const developer = {
     "Userstyles & Custom CSS"
   ],
   
-  languages: ["JavaScript", "TypeScript", "Python", "Bash", "HTML/CSS"],
+  languages: ["JavaScript", "TypeScript", "Python", "Bash", "HTML/CSS", "PowerShell"],
   
   focus: "Building AI-powered tools & translating repositories professionally"
 };
@@ -80,7 +80,7 @@ const developer = {
 
 <div align="center">
 
-*Passionate about innovation, open source, and building the future with code* ✨
+*Passionate about innovation, open source, and building the future with vibe code* ✨
 
 **104 contributions in the last year** | **138 public repositories** | **2.8k stars earned**
 
