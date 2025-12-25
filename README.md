@@ -1,21 +1,20 @@
 <div align="center">
 
-<!-- Elegant Header with Gradient -->
+<!-- Animated Header -->
 <h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=32&duration=3000&pause=1000&color=6A7FDB&center=true&vCenter=true&width=600&lines=Passionate+about+Innovation;Building+Intelligent+Solutions;Open+Source+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=36&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Building+Intelligent+Solutions;AI%2FML+Engineer+%26+Full-Stack+Dev;Open+Source+Enthusiast" alt="Typing Animation" />
 </h1>
 
-<!-- Refined Stats Badges -->
+<!-- Stats Badges -->
 <p>
-  <img src="https://img.shields.io/badge/Profile_Views-5-6A7FDB?style=for-the-badge&labelColor=2D3748" alt="views" />
-  <img src="https://img.shields.io/badge/Followers-107-7C3AED?style=for-the-badge&labelColor=2D3748" alt="followers" />
-  <img src="https://img.shields.io/badge/Stars-16-F59E0B?style=for-the-badge&labelColor=2D3748" alt="stars" />
-  <img src="https://img.shields.io/badge/Open_to-Collaborate-10B981?style=for-the-badge&labelColor=2D3748" alt="collaborate" />
+  <img src="https://komarev.com/ghpvc/?username=neoOpus&style=for-the-badge&color=6366f1" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/neoOpus?style=for-the-badge&color=8b5cf6" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/neoOpus?style=for-the-badge&color=f59e0b" alt="Stars" />
 </p>
 
 </div>
 
-<br>
+<br/>
 
 ## 👨‍💻 About Me
 
@@ -34,93 +33,87 @@ const developer = {
     "Userstyles & Custom CSS"
   ],
   
-  code: ["JavaScript", "TypeScript", "Python", "HTML/CSS", "Bash"],
+  languages: ["JavaScript", "TypeScript", "Python", "Bash", "HTML/CSS"],
   
-  technologies: {
-    ai_ml: ["Stable Diffusion", "LLMs", "Computer Vision", "TensorFlow"],
-    frontend: ["React", "Vue", "Next.js", "Tailwind CSS"],
-    backend: ["Node.js", "FastAPI", "Express"],
-    tools: ["Git", "Docker", "VS Code", "Figma"]
-  },
-  
-  currentFocus: "Building AI-powered tools & translating repositories professionally"
+  focus: "Building AI-powered tools & translating repositories professionally"
 };
 ```
 
-<br>
+<br/>
 
-## 🎨 Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
-### Languages & Frameworks
-<p>
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" width="48" height="48" title="JavaScript"/>
-  <img src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" width="48" height="48" title="TypeScript"/>
-  <img src="https://cdn.simpleicons.org/python/3776AB" alt="Python" width="48" height="48" title="Python"/>
-  <img src="https://cdn.simpleicons.org/react/61DAFB" alt="React" width="48" height="48" title="React"/>
-  <img src="https://cdn.simpleicons.org/vuedotjs/4FC08D" alt="Vue" width="48" height="48" title="Vue"/>
-  <img src="https://cdn.simpleicons.org/nodedotjs/339933" alt="Node.js" width="48" height="48" title="Node.js"/>
-</p>
+### Programming Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Tools & Technologies  
-<p>
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" alt="Tailwind" width="48" height="48" title="Tailwind CSS"/>
-  <img src="https://cdn.simpleicons.org/docker/2496ED" alt="Docker" width="48" height="48" title="Docker"/>
-  <img src="https://cdn.simpleicons.org/git/F05032" alt="Git" width="48" height="48" title="Git"/>
-  <img src="https://cdn.simpleicons.org/github/181717" alt="GitHub" width="48" height="48" title="GitHub"/>
-  <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" alt="VS Code" width="48" height="48" title="VS Code"/>
-  <img src="https://cdn.simpleicons.org/figma/F24E1E" alt="Figma" width="48" height="48" title="Figma"/>
-</p>
+### Frameworks & Libraries
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+### AI/ML & Tools
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 </div>
 
-<br>
+<br/>
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=neoOpus&show_icons=true&theme=tokyonight&bg_color=1A202C&title_color=6A7FDB&text_color=CBD5E0&icon_color=7C3AED&border_color=2D3748&hide_border=false" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neoOpus&layout=compact&theme=tokyonight&bg_color=1A202C&title_color=6A7FDB&text_color=CBD5E0&border_color=2D3748&hide_border=false" alt="Top Languages"/>
-</div>
-
-<br>
-
-## 🐍 Contribution Graph
+## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/neoOpus/neoOpus/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=neoOpus&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=8b5cf6&text_color=c9d1d9" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neoOpus&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9" alt="Top Languages" />
 </div>
 
-<br>
+<br/>
 
-## 🏆 Achievements
+## 🐍 Contribution Activity
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=neoOpus&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&column=4&bg_color=1A202C&title_color=6A7FDB&text_color=CBD5E0&border_color=2D3748" alt="Trophies"/>
+  <img src="https://raw.githubusercontent.com/neoOpus/neoOpus/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
 </div>
 
-<br>
+<br/>
 
-## 📫 Connect With Me
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=neoOpus&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophy Collection" />
+</div>
+
+<br/>
+
+## 🔗 Connect
 
 <div align="center">
   <a href="https://github.com/neoOpus">
-    <img src="https://img.shields.io/badge/GitHub-neoOpus-6A7FDB?style=for-the-badge&logo=github&logoColor=white&labelColor=2D3748" alt="GitHub"/>
-  </a>
-  <a href="mailto:anwar.b.t@gmail.com">
-    <img src="https://img.shields.io/badge/Email-anwar.b.t%40gmail.com-7C3AED?style=for-the-badge&logo=gmail&logoColor=white&labelColor=2D3748" alt="Email"/>
+    <img src="https://img.shields.io/badge/GitHub-neoOpus-6366f1?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
   </a>
 </div>
 
-<br>
+<br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=neoOpus&style=for-the-badge&color=6A7FDB&label=PROFILE+VIEWS" alt="Profile views"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=neoOpus&theme=tokyonight&hide_border=true&background=0d1117&stroke=6366f1&ring=8b5cf6&fire=f59e0b&currStreakLabel=c9d1d9" alt="GitHub Streak" />
 </div>
 
 ---
 
 <div align="center">
-  <i>"Innovation distinguishes between a leader and a follower." - Steve Jobs</i>
+  <i>Passionate about innovation, open source, and building the future with code ✨</i>
 </div>
