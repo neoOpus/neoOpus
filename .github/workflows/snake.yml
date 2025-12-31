@@ -13,7 +13,7 @@ on:
   # Also run on every push on the master branch
   push:
     branches:
-    - main
+      - main
 
 # The sequence of runs in this workflow:
 jobs:
@@ -21,7 +21,11 @@ jobs:
   build:
     # The type of runner that the job will run on
     runs-on: ubuntu-latest
-
+    
+    # Grant GITHUB_TOKEN the permissions required to make a Pages deployment
+    permissions:
+      contents: write
+    
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
       - name: Clone repo
