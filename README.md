@@ -250,3 +250,11 @@ $ cowsay -f tux "Let's build something awesome together!"
   "The real treasure was the code we wrote along the way." 
   - Ancient Developer Proverb
 -->
+
+---
+
+<div align="center">
+
+![github-snake](https://raw.githubusercontent.com/neoOpus/neoOpus/output/github-contribution-grid-snake-dark.svg)
+
+</div>
